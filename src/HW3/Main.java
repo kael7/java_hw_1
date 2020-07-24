@@ -8,8 +8,8 @@ public class Main {
     static Random rand = new Random();
 
     public static void main(String[] args) {
-        guessTheNumber();
-//        guessTheWord();
+//        guessTheNumber();
+        guessTheWord();
     }
 
     public static void guessTheNumber() {
