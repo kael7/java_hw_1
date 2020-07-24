@@ -18,8 +18,8 @@ public class Main {
 //        changeArray();
 //        fillDiagonal();
 //        findMinMaxNumArray();
-        checkBalance(randomArray);
-//        moveArray(new int[]{1, 2, 3, 4, 5}, 2);
+//        checkBalance(randomArray);
+        moveArray(new int[]{1, 2, 3, 4, 5}, 1);
     }
 
     public static void invertArray() {
@@ -124,4 +124,7 @@ public class Main {
         System.out.println(Arrays.toString(arr));
     }
 
+
 }
+
+
